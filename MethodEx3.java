@@ -13,7 +13,7 @@ public class MethodEx3 {
 		int b = sc.nextInt();
 
 		return a + b;
-
+        
 	}
 
 	public static void main(String[] args) {
